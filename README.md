@@ -32,7 +32,7 @@ We hope to create resources on some of the topics listed above. As stated previo
 
 # How to Become Involved in the Organization
 
-If you are using these resources and would like to contribute to the creation of more resources, please reach out to us on our LinkedIn page --- https://www.linkedin.com/company/ai-youth-global-organization/?viewAsMember=true.
+If you are using these resources and would like to contribute to the creation of more resources, please reach out to us on our LinkedIn page --- https://www.linkedin.com/company/ai-youth-global-organization/?viewAsMember=true. If you want to learn more about the organization, follow our LinkedIn page, Instagram page (@AI Youth Global Organization), and visit our website --- aiygo.org.
 
 # Questions
 
