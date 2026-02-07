@@ -15,6 +15,8 @@ All resources starting at level 2.5 were inspired from the University of Amsterd
 
 At the AI Youth Global Organization **we prioritize understanding the mathematical intuition of machine learning models.** By understanding the mathematical intuition of machine learning models, we believe that students who use our resources will be able to ask critical questions about model architectures and appliations. **By bridging mathematical frameworks from various models, we beleive that students will be able to develop unique architectures for machine learning.**
 
+Additionally, we will be adding a glossary of various terms to this repository so that it is easier to understand some of the more advancced topics.
+
 # Future Plans
 
 In the end of March, the AIYGO will be releasing another wave of resources covering a vareity of topics. Depending on the amount of time available, we will be developing resources from the following pool of topics
@@ -23,5 +25,15 @@ In the end of March, the AIYGO will be releasing another wave of resources cover
 2. **JEPA and World Models** (Level 6+)
 3. **LORA Fine Tuning and Model Distillation** (Level 3+)
 4. **The Creation of Agentic Architectures** (Level 3+)
-5. **Mixture of Experts and Attention Variants** (Level 4+)
-6. ****
+5. **Mixture of Experts** (Level 4+)
+6. **Attention and Transformer Variants** (Level 6+)
+
+We hope to create resources on some of the topics listed above. As stated previously, we will be releasing these resources in late March, early April.
+
+# How to Become Involved in the Organization
+
+If you are using these resources and would like to contribute to the creation of more resources, please reach out to us on our LinkedIn page --- https://www.linkedin.com/company/ai-youth-global-organization/?viewAsMember=true.
+
+# Questions
+
+If you have questions about any of the resources, please reach out to one of the Senior Chairs listed on the aiygo.org page. Preferably, please reach out to one of the Senior Chairs in your continent. If they do not respond within three days, then reach out to the AIYGO LinkedIn page and title it as "Service Request."
