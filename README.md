@@ -7,19 +7,19 @@ Hello everyone. This repository contains the AI Youth Global Organization educat
 4. **Level 2.25:** Long-Short Term Memory Models, Introduction to Quantitative Finance, and Computer Vision Part One (soon to be added)
 5. **Level 2.5:** Training Models at Scale and Multi-GPU Programming
 6. **Level 3:** The Transformer Architecture
-7. **Level 4:** Graph Neural Netwokrs
+7. **Level 4:** Graph Neural Networks
 8. **Level 5:** Physics Inspired Machine Learning
 9. **Level 6:** Geometric Deep Learning and Computer Vision Part Two (soon to be added)
 
-All resources starting at level 2.5 were inspired from the University of Amsterdam Deep Learning Notebooks. Our goal is to take the concepts covered in the University of Amsterdam Deep Learning Notebooks and expand on the topics covered in them. By expanding on the topics covered in the notebooks, we hope to make graduate level topics accessible to high schoolers.
+All resources starting at level 2.5 were inspired by the University of Amsterdam Deep Learning Notebooks. Our goal is to take the concepts covered in the University of Amsterdam Deep Learning Notebooks and expand on the topics covered in them. By expanding on the topics covered in the notebooks, we hope to make graduate-level topics accessible to high schoolers.
 
-At the AI Youth Global Organization **we prioritize understanding the mathematical intuition of machine learning models.** By understanding the mathematical intuition of machine learning models, we believe that students who use our resources will be able to ask critical questions about model architectures and appliations. **By bridging mathematical frameworks from various models, we beleive that students will be able to develop unique architectures for machine learning.**
+At the AI Youth Global Organization **we prioritize understanding the mathematical intuition of machine learning models.** By understanding the mathematical intuition of machine learning models, we believe that students who use our resources will be able to ask critical questions about model architectures and applications. **By bridging mathematical frameworks from various models, we believe that students will be able to develop unique architectures for machine learning.**
 
-Additionally, we will be adding a glossary of various terms to this repository so that it is easier to understand some of the more advancced topics.
+Additionally, we will be adding a glossary of various terms to this repository so that it is easier to understand some of the more advanced topics.
 
 # Future Plans
 
-In the end of March, the AIYGO will be releasing another wave of resources covering a vareity of topics. Depending on the amount of time available, we will be developing resources from the following pool of topics
+In the end of March, the AIYGO will be releasing another wave of resources covering a variety of topics. Depending on the amount of time available, we will be developing resources from the following pool of topics
 
 1. **Cateogry Equivariant Models** (Level 6+)
 2. **JEPA and World Models** (Level 6+)
@@ -27,8 +27,12 @@ In the end of March, the AIYGO will be releasing another wave of resources cover
 4. **The Creation of Agentic Architectures** (Level 3+)
 5. **Mixture of Experts** (Level 4+)
 6. **Attention and Transformer Variants** (Level 6+)
+7. **Gradient Boosting Regressors** (Level 2+)
+8. **Linear, Logistic, Exponential, and Polynomial Regression** (Level 1+)
+9. **KMeans Clustering** (Level 1+)
+10. **Building a CNN with TensorFlow Keras, PyTorch, and OpenCV** (Level 1+)
 
-We hope to create resources on some of the topics listed above. As stated previously, we will be releasing these resources in late March, early April.
+We hope to create resources on some of the topics listed above. As stated previously, we will be releasing these resources in late March or early April.
 
 # How to Become Involved in the Organization
 
